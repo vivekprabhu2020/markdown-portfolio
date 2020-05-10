@@ -1,12 +1,12 @@
 1. Rock
-  1.1 Space Rock
-  1.2 Earth Rock
-  1.3 I Rock! :smile:
-2. Paper
-  2.1 Papyrus
-  2.2 e Ink :tada:
-3. Scissors
-  3.1 One small cut :+1:
+  1. Space Rock
+  1. Earth Rock
+  1. I Rock! :smile:
+1. Paper
+  1. Papyrus
+  1. e Ink :tada:
+1. Scissors
+  1. One small cut :+1:
 
 * Rock
 * Paper
